@@ -23,6 +23,7 @@ I'm a Computer Science student** passionate about software development, problem-
 - Open Source Contributions 
 
 ## Let's Connect!
+- **GitHub:** https://github.com/malakw04
 - **LinkedIn:** www.linkedin.com/in/malakabdelkafy
 - **Email:** malak.abdelkafy@gmail.com
 
